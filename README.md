@@ -10,7 +10,7 @@ At Cheetah Solutions, our team has extensive experience in both back-end and fro
 
 ## 📘 Termos de Serviço
 
-Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você está concordando com estes Termos de Serviço. Por favor, leia atentamente todas as cláusulas abaixo, pois elas definem as diretrizes de uso de nossos serviços, assim como os direitos e responsabilidades das partes envolvidas. Basta Clicar aqui para ler [Termos de Serviço - Cheetah Solutions Network]
+Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você está concordando com estes Termos de Serviço. Por favor, leia atentamente todas as cláusulas abaixo, pois elas definem as diretrizes de uso de nossos serviços, assim como os direitos e responsabilidades das partes envolvidas. Basta Clicar aqui para ler [Termos de Serviço - Cheetah Solutions Network](https://github.com/CheetahSolutions/Cheetah-Solutions-Network---Termos-de-Servi-o)
 
 ### Front End
 - **React**: We create interactive and dynamic user interfaces using React, taking advantage of its reusable components and efficient state management.
