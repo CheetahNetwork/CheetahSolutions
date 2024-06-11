@@ -1,6 +1,6 @@
 # [`Cheetah Solutions`]() ⚡  <img src="https://komarev.com/ghpvc/?username=CheetahSolutions&style=flat-square" alt="" align="center" />
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"><img width="55%" align="right" alt="Cheetah" src="[https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg](https://media.discordapp.net/attachments/1222220000840912897/1225434199155015730/20240403_191754.png?ex=6669a008&is=66684e88&hm=db419a5926620c144151d01435e31001674874a787eaccbb239df2ff400962ef&=&format=webp&quality=lossless&width=472&height=472)" style="max-width: 100%;"></a></p>
 
 Welcome to Cheetah Solutions! We are an organization dedicated to providing fast and effective digital solutions. Our team of developers specializes in creating websites, bots for Discord, building and managing Discord servers, data samples and Design.
 
