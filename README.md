@@ -8,6 +8,10 @@ Welcome to Cheetah Solutions! We are an organization dedicated to providing fast
 
 At Cheetah Solutions, our team has extensive experience in both back-end and front-end development, using a variety of modern and robust technologies. Our expertise allows us to create high-performance and scalable solutions that meet the specific needs of our customers..
 
+## 📘 Termos de Serviço
+
+Bem-vindo à Cheetah Solutions Network! Ao utilizar nossos serviços, você está concordando com estes Termos de Serviço. Por favor, leia atentamente todas as cláusulas abaixo, pois elas definem as diretrizes de uso de nossos serviços, assim como os direitos e responsabilidades das partes envolvidas. Basta Clicar aqui para ler [Termos de Serviço - Cheetah Solutions Network]
+
 ### Front End
 - **React**: We create interactive and dynamic user interfaces using React, taking advantage of its reusable components and efficient state management.
 - **Next.js**: With Next.js, we develop React applications with server-side rendering (SSR) and static website generation, ensuring optimized performance and SEO.
